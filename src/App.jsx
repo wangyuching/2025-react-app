@@ -17,7 +17,8 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>20250508</h1>
+      <p>2025-05-08</p>
+      <h1>5B1G0023 王昱晴</h1>
       <h2>我的第一個元件 : Slider</h2>
       <div>
         <p>R : <MySlider /></p>
